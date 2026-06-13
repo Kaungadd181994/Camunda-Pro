@@ -1,0 +1,6 @@
+{
+  "name": "Camunda Workflow Platform",
+  "description": "Interactive BPMN 2.0 process modeler, DMN decision tables, drag-and-drop form builder, and execution engine for business workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
